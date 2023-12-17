@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/react-poorman-netflix/static/js/main.bc05c4bd.js",
+    "static/media/Movie2.jpg": "/react-poorman-netflix/static/media/Movie2.fde15107e11b72c0b75e.jpg",
+    "index.html": "/react-poorman-netflix/index.html",
+    "main.bc05c4bd.js.map": "/react-poorman-netflix/static/js/main.bc05c4bd.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bc05c4bd.js"
+  ]
+}
